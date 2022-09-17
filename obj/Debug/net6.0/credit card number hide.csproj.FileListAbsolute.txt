@@ -1,0 +1,15 @@
+E:\c# projects\credit card number hide\bin\Debug\net6.0\credit card number hide.exe
+E:\c# projects\credit card number hide\bin\Debug\net6.0\credit card number hide.deps.json
+E:\c# projects\credit card number hide\bin\Debug\net6.0\credit card number hide.runtimeconfig.json
+E:\c# projects\credit card number hide\bin\Debug\net6.0\credit card number hide.dll
+E:\c# projects\credit card number hide\bin\Debug\net6.0\credit card number hide.pdb
+E:\c# projects\credit card number hide\obj\Debug\net6.0\credit card number hide.csproj.AssemblyReference.cache
+E:\c# projects\credit card number hide\obj\Debug\net6.0\credit card number hide.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\credit card number hide\obj\Debug\net6.0\credit card number hide.AssemblyInfoInputs.cache
+E:\c# projects\credit card number hide\obj\Debug\net6.0\credit card number hide.AssemblyInfo.cs
+E:\c# projects\credit card number hide\obj\Debug\net6.0\credit card number hide.csproj.CoreCompileInputs.cache
+E:\c# projects\credit card number hide\obj\Debug\net6.0\credit card number hide.dll
+E:\c# projects\credit card number hide\obj\Debug\net6.0\refint\credit card number hide.dll
+E:\c# projects\credit card number hide\obj\Debug\net6.0\credit card number hide.pdb
+E:\c# projects\credit card number hide\obj\Debug\net6.0\credit card number hide.genruntimeconfig.cache
+E:\c# projects\credit card number hide\obj\Debug\net6.0\ref\credit card number hide.dll
